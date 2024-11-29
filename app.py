@@ -16,7 +16,7 @@ st.set_page_config(page_title="Movie Recommendation System", layout="wide")
 
 # Header and Description
 st.title("🎥 Movie Recommendation System")
-st.image("images/netflix-image.jpg", caption="Discover Your Next Favorite Movie!")
+st.image("images/netflix-image.jpg", caption="Discover Your Next Favorite Movie!", width=400)
 st.markdown("""
 Welcome to the Movie Recommendation System!  
 - **Model**: Cosine Similarity on Movie Ratings  
