@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+![Movie Banner](images/netflix-image.jpg)
+
 ## Project Overview
 
 This project implements a **Movie Recommendation System** that suggests similar movies based on a given movie title. The system uses **Cosine Similarity** to measure the similarity between movies and generates recommendations accordingly. 
@@ -61,6 +63,15 @@ The movie dataset used in this project is from [MovieLens dataset]([https://grou
 
 - Input: `Star Wars (1977)`
 - Output: A list of similar movies such as `Return of the Jedi (1983)`, `Empire Strikes Back (1980)`, etc.
+
+## Output
+- Home page of Movie Recommendation System Web App
+![Home page of the app](images/Streamlit1.png)
+- Input with movie name present in the training database (MovieLens)
+![With correct input Movie name](images/Streamlit2.png)
+![With correct input Movie name](images/Streamlit3.png)
+- Input with movie name not present in the database  (MovieLens)
+![With incorrect input](images/Streamlit4.png)
 
 ## Conclusion
 
