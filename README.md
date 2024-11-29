@@ -80,3 +80,7 @@ This project demonstrates the implementation of a **Movie Recommendation System*
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Notes
+- The accuracy of the model is not good as it uses rating as a feature to inference for recommending movies.
+- The requirements.txt contain extra files which was not needed. So, it is better to manually install deoendencies. 
