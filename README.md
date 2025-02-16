@@ -43,7 +43,7 @@ The movie dataset used in this project is from [MovieLens dataset]([https://grou
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/UmerSalimKhan/Movie-Recommendation-System-
     cd movie-recommendation-system
     ```
 
